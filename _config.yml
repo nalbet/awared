@@ -10,15 +10,11 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Angel Imaz
-  pic: 1
+  pic: 3
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/angel-imaz-59b13010/
 
 - name: Nuria Albet
   pic: 2
@@ -27,27 +23,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/nuriaalbettorres/
 
-- name: Rafael Lorenzo
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-      
-- name: Ricardo Pais
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
