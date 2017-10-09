@@ -1,14 +1,14 @@
 ---
-title: Agua1
-subtitle: Red de Riego
+title: Cursos Blockchain para la economía local
+subtitle: Cursos
 layout: default
 modal-id: 1
-img: riego.jpg
-thumbnail: riego-thumbnail.jpg
+img: La_Palma.png
+thumbnail: La_Palma-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Comunidad de riego agua 1
-category: Agua IoT
-description: Diseño e instalación de la telegestión de la red de riego de la comunidad Agua1.
+project-date: October 2017
+client: Empresas/administración
+category: Cursos
+description: Aportar conocimientos y facilitar brainstorms alrededor de las oportunidades que ofrece el blockchain.
 
 ---

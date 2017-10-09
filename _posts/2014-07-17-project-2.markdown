@@ -1,15 +1,14 @@
 ---
-title: Curso IoT
+title: Cursos IoT
 subtitle: Cursos
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: riego.jpg
+thumbnail: riego-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Universidad
+project-date: November 2017
+client: Empresas/administración
 category: Cursos
-description: Organización del curso de Arduino y Lora aplicado a la medición de contaminación del aire y lumínica.
+description: Organización de cursos de Arduino, Lora aplicado a la mediciones en agricultura.
 
 ---
